@@ -12,6 +12,7 @@ const BookStore = (props) => {
             </div>
             <div className="books">
                 <div className="book-item">
+                    <span></span>
                 </div>
             </div>
         </div>
