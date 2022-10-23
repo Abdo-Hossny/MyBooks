@@ -1,2 +1,4 @@
 # MyReads
-MyReads is a project by React JS about the books i read it, want to read, and completed read it
+MyReads is a web application that allows you to select and categorize books you have read, are currently reading, or want to read.
+
+
